@@ -1,6 +1,6 @@
-# warpAR (WIP)
+# warpAR 
 
-warpAR is an augmented reality app for iOS that lets you distort the textures of the real world by tapping and dragging. Tap and drag to reshape buildings or turn murals into swirls of color using a set of liquify tools. The app is [available for free on the app store][app].
+[warpAR][app] is an augmented reality app for iOS that lets you distort the textures of the real world by tapping and dragging. Tap and drag to reshape buildings or turn murals into swirls of color using a set of liquify tools. The app is [available for free on the app store][app].
 
 This repo provides documentation on using warpAR. If you run into any issues or have any feature requests, you can also [file an issue][issues] here.
 
